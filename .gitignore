@@ -1,0 +1,13 @@
+# Artefacts de compilation (tout ce qui se régénère)
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Fichiers éditeur / OS
+.vscode/
+*.swp
+.DS_Store
