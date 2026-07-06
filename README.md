@@ -1,4 +1,4 @@
-# EMU — Sprint 0 : Blink (STM32F767 / libopencm3)
+# project 0 : Blink (STM32F767 / libopencm3)
 
  first project is to blink led of MCU stm32  using [libopencm3](https://github.com/libopencm3/libopencm3).
 ## hardware
