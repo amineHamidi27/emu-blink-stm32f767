@@ -1,9 +1,7 @@
 # EMU — Sprint 0 : Blink (STM32F767 / libopencm3)
 
-Premier jalon du projet **Environmental Monitoring Unit** : faire clignoter la LED
-utilisateur en bare-metal avec [libopencm3](https://github.com/libopencm3/libopencm3).
-
-## Matériel
+ first project is to blink led of MCU stm32  using [libopencm3](https://github.com/libopencm3/libopencm3).
+## hardware
 - Carte : **NUCLEO-F767ZI** (STM32F767ZI, Cortex-M7)
 - LED : LD1 verte, broche **PB0**
 - Programmateur : ST-Link intégré
