@@ -22,9 +22,9 @@ make flash
 ```
 projet1/
 ├── src/
-│   ├── main.c      # code applicatif (setup GPIO + blink)
-│   ├── Makefile    # règles de build
-│   └── link.ld     # script de linkage (mapping mémoire)
+│   ├── main.c      # code (setup GPIO + blink)
+│   ├── Makefile    # rules of build
+│   └── link.ld     # linker (mapping mémoire)
 └── README.md
 ```
 
